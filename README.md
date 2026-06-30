@@ -1,6 +1,3 @@
-# Advanced-Data-Visualization-and-Statistical-Analysis
-Advanced Data Visualization and Statistical Analysis
-
 # Multi-Omics Data Integration and Statistical Analysis in R
 
 ## Overview
